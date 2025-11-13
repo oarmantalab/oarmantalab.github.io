@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "light" # Currently available options are "default", "air"
+site_theme               : "dark" # Currently available options are "default", "air"
 title                    : "Omid Armantalab"
 title_separator          : "-"
 name                     : &name "Omid Armantalab"
